@@ -7,7 +7,7 @@ The client, a district school board, has requested an analysis of standardized t
 
 The data was analyzed to find the each school's average math and reading score as well as the passing percentage of each and the overall passing percentage. The data was futher filtered to provide results for each of the four grade levels, size of student population, amount of budget spent per student, and the type of school (district vs. charter).
 
-After performing an analysis, school board reported a potential problem with the data reported for 9th graders at Thomas High School. Another analysis was performed which removed these scores from the final deliverable.
+After performing the analysis, the school board communicated a potential problem with the data reported for 9th graders at Thomas High School. Another analysis was performed which removed these scores from the final deliverable.
 
 ## Results
 
