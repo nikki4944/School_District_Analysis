@@ -44,9 +44,9 @@ In both analyses, the five highest performing schols were charter schools with s
 * Thomas High School appeared in the top five performers list in both analyses and both tables are displayed below.
   - Original highest performing schools DataFrame
 <img width="995" alt="Original Highest Schools" src="https://user-images.githubusercontent.com/82982901/119195959-713ff180-ba53-11eb-8d21-61d67db829e6.png">
-  - DataFrame with Thomas High School's 9th grade scores remove
+* - DataFrame with Thomas High School's 9th grade scores remove
 <img width="801" alt="Re-analysis Highest Schools" src="https://user-images.githubusercontent.com/82982901/119195967-74d37880-ba53-11eb-97eb-8b9658cd08c9.png">
-  -DataFrame showing the lowest performing schools
+* - DataFrame showing the lowest performing schools
  <img width="995" alt="Original Highest Schools" src="https://user-images.githubusercontent.com/82982901/119196201-cbd94d80-ba53-11eb-9a8a-a9a29b5d1205.png">
 
 
