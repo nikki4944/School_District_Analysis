@@ -17,7 +17,7 @@ The following DataFrame shows the School Type, School Budget, Per Student Budget
 
 <img width="1015" alt="Original Per School" src="https://user-images.githubusercontent.com/82982901/119191683-fb388c00-ba4c-11eb-957d-a7e4b80bd807.png">
 
-Following guidance from the school board which raised questions about the reported grades for 9th graders at Thomas High School, the DataFrame was adjusted to remove these grades from the analysis. As the following shows, the only school effected by this change was Thomas High School where a slight difference can be detected in the last five columns.
+Following guidance from the school board which raised questions about the reported grades for 9th graders at Thomas High School, the DataFrame was adjusted to remove these grades from the analysis. As the following shows, slight differences can be detected in the last five columns of the Thomas High School row.
 
 <img width="1016" alt="Re-analysis Per School" src="https://user-images.githubusercontent.com/82982901/119192131-9c274700-ba4d-11eb-8f0a-45c1f01b862b.png">
 
