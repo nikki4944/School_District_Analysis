@@ -21,6 +21,21 @@ Following guidance from the school board which raised questions about the report
 
 <img width="1016" alt="Re-analysis Per School" src="https://user-images.githubusercontent.com/82982901/119192131-9c274700-ba4d-11eb-8f0a-45c1f01b862b.png">
 
+Removing the 9th grade scores from Thomas High School had minimal affect on the district analysis. As shown above, slight changes can be see in the school summary DataFrames. 
+
+However, the deliverable also filtered the data sets and analyzed the scores by school spending per student, school size, and school type. The code for these three analyses did not utilize individual grade data and where thus unchanged. The following illustrates the results:
+
+* Schools who spent more money per student actually performed less well overall on the standardized tests.
+
+<img width="798" alt="Re-analysis by Student Spending" src="https://user-images.githubusercontent.com/82982901/119194292-dcd48f80-ba50-11eb-8775-899acd1eb07b.png">
+
+* Schools with larger populations averaged the lowest scores and have the lowest overall passing percentage.
+
+<img width="766" alt="Re-analysis by Size" src="https://user-images.githubusercontent.com/82982901/119194309-e231da00-ba50-11eb-98de-891d338160cd.png">
+
+* Charter schools with smaller student populations, as illustrated in the original per school DataFrame, performed the best across the board.
+
+<img width="712" alt="Re-analysis by Type" src="https://user-images.githubusercontent.com/82982901/119194324-e6f68e00-ba50-11eb-8ea4-7f0bae2b56f9.png">
 
 
 ## Summary
@@ -33,3 +48,5 @@ After removing Thomas High School's 9th grade score date from the analysis, slig
 * The overall passing percentage changed from 90.95 to 90.63
 
 These changes had no effect on Thomas High School's high perfomance rate, they were the 2nd hightest performing school in the original analysis as well as the re-analysis.
+
+A further analysis which takes into consideration average class size and number of teachers at each school would be recommended in order to gain greater understanding of how larger schools with more per student spending received the lowest test scores.
